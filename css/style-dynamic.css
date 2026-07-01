@@ -719,10 +719,26 @@ a, button, input, select, textarea, .resultado-item {
     /* HEADER MÓVIL */
     .encabezado {
         padding: 0.8rem 1rem;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 1rem;
     }
 
     .encabezado.scrolled {
         padding: 0.6rem 1rem;
+        flex-direction: row;
+        align-items: center;
+        gap: 1rem;
+    }
+
+    .encabezado.scrolled .encabezado-top {
+        display: flex;
+        align-items: center;
+        gap: 0.8rem;
+    }
+
+    .encabezado.scrolled .nav-principal {
+        margin-left: auto;
     }
 
     .logo-img {
@@ -742,8 +758,15 @@ a, button, input, select, textarea, .resultado-item {
         font-size: 0.7rem;
     }
 
+    .nav-principal {
+        width: 100%;
+        margin-left: 0;
+    }
+
     .nav-principal ul {
         gap: 1rem;
+        width: 100%;
+        justify-content: flex-start;
     }
 
     .nav-principal a {
@@ -799,12 +822,14 @@ a, button, input, select, textarea, .resultado-item {
         gap: 0.8rem;
         padding: 1rem;
         border-radius: 10px;
+        order: 0;
     }
 
     .resultado-info {
         flex-direction: column;
         gap: 0.3rem;
         width: 100%;
+        order: 1;
     }
 
     .badge-marca {
@@ -825,7 +850,7 @@ a, button, input, select, textarea, .resultado-item {
         flex-wrap: wrap;
         gap: 0.5rem;
         width: 100%;
-        order: -1;
+        order: 2;
     }
 
     .opcion-repuesto {
@@ -841,6 +866,11 @@ a, button, input, select, textarea, .resultado-item {
 
     .opcion-precio {
         font-size: 0.9rem;
+    }
+
+    .resultado-footer {
+        width: 100%;
+        order: 3;
     }
 
     .btn-whatsapp-cotizar {
