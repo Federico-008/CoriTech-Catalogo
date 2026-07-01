@@ -13,15 +13,19 @@ El proyecto fue diseñado priorizando velocidad, simplicidad, escalabilidad y un
 🌐 Demo
 > Próximamente disponible mediante GitHub Pages.
 
-Características
-📱 Catálogo organizado por marcas y modelos.
-💲 Visualización de precios Estándar y Premium.
-🛡️ Identificación de servicios con garantía.
-⚡ Interfaz rápida y liviana.
-📲 Diseño completamente responsive.
-🎨 Diseño moderno orientado a la experiencia del cliente.
-🧩 Código modular y fácil de mantener.
-📈 Base preparada para futuras mejoras.## 🛠️ Tecnologías utilizadas
+ Características
+
+- 📱 Catálogo organizado por marcas y modelos.
+- 💲 Visualización de precios Estándar y Premium.
+- 🛡️ Identificación de servicios con garantía.
+- ⚡ Interfaz rápida y liviana.
+- 📲 Diseño completamente responsive.
+- 🔍 Preparado para incorporar buscador inteligente.
+- 🎨 Diseño moderno orientado a la experiencia del cliente.
+- 🧩 Código modular y fácil de mantener.
+- 📈 Base preparada para futuras mejoras.
+
+  ## 🛠️ Tecnologías utilizadas
 Tecnología	Uso
 HTML5	Estructura semántica de la aplicación.
 CSS3	Diseño responsive y estilos de la interfaz.
@@ -63,7 +67,22 @@ img/ centraliza todos los recursos gráficos utilizados por la aplicación, como
 js/ contiene la lógica principal de la aplicación y las animaciones de la interfaz, manteniendo separadas las responsabilidades.
 index.html actúa como punto de entrada y ensambla todos los recursos del proyecto.
 Esta arquitectura permite incorporar nuevas marcas simplemente agregando un nuevo archivo JSON, manteniendo el código limpio y fácil de escalar.
-💡 Filosofía del proyecto
-El proyecto fue desarrollado siguiendo un enfoque de separación de responsabilidades, manteniendo independientes la estructura, los estilos, la lógica y los datos.
-Los precios y modelos se administran mediante archivos JSON, lo que facilita su actualización sin necesidad de modificar el funcionamiento interno de la aplicación.
-Esta arquitectura permite que el proyecto evolucione fácilmente hacia futuras integraciones con bases de datos, paneles administrativos o APIs, reutilizando gran parte de la lógica existente.
+## 🎯 Objetivo del proyecto
+
+Este proyecto nace como una herramienta digital para mejorar la atención al cliente del servicio técnico **CoriTech**.
+
+Su propósito es reemplazar listas de precios tradicionales por una plataforma web moderna, permitiendo consultar valores de reparación de forma clara, rápida y profesional desde cualquier dispositivo.
+
+Además, el proyecto está pensado para evolucionar hacia un sistema mucho más completo que permita administrar información de forma dinámica.
+
+---
+
+## 🔮 Roadmap
+
+### Versión 1.0
+
+- [x] Diseño responsive
+- [x] Catálogo de precios
+- [x] Separación entre servicio Estándar y Premium
+- [x] Diseño moderno
+- [x] Organización por marcas
