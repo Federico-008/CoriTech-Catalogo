@@ -738,7 +738,8 @@ a, button, input, select, textarea, .resultado-item {
     }
 
     .encabezado.scrolled .nav-principal {
-        margin-left: auto;
+        margin-left: 0;
+        display: none;
     }
 
     .logo-img {
