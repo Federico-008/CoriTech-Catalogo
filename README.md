@@ -59,7 +59,8 @@ CoriTech-Price-Catalog/
 │
 ├── index.html                     # Punto de entrada de la aplicación
 ```
-🏗️ Arquitectura del proyecto
+
+## 🏗️ Arquitectura del proyecto
 La aplicación sigue una estructura organizada por responsabilidades para facilitar el mantenimiento, la escalabilidad y futuras ampliaciones.
 css/ contiene la normalización y todos los estilos visuales de la interfaz.
 data/ almacena el catálogo de precios en archivos JSON independientes para cada marca, permitiendo actualizar la información sin modificar el código JavaScript.
@@ -67,6 +68,7 @@ img/ centraliza todos los recursos gráficos utilizados por la aplicación, como
 js/ contiene la lógica principal de la aplicación y las animaciones de la interfaz, manteniendo separadas las responsabilidades.
 index.html actúa como punto de entrada y ensambla todos los recursos del proyecto.
 Esta arquitectura permite incorporar nuevas marcas simplemente agregando un nuevo archivo JSON, manteniendo el código limpio y fácil de escalar.
+
 ## 🎯 Objetivo del proyecto
 
 Este proyecto nace como una herramienta digital para mejorar la atención al cliente del servicio técnico **CoriTech**.
