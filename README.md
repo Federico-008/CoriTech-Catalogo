@@ -88,3 +88,23 @@ Además, el proyecto está pensado para evolucionar hacia un sistema mucho más 
 - [x] Separación entre servicio Estándar y Premium
 - [x] Diseño moderno
 - [x] Organización por marcas
+
+## 📈 Estado del proyecto
+
+🟠 En desarrollo activo.
+
+Actualmente se encuentra en constante mejora incorporando nuevas funcionalidades y optimizaciones.
+
+---
+
+## 👨‍💻 Autor
+
+Desarrollado por **CoriTech**.
+
+Servicio técnico especializado en reparación de dispositivos móviles, mantenimiento de equipos y desarrollo de soluciones digitales para optimizar la atención al cliente.
+
+---
+
+##  Si te gustó este proyecto
+
+Podés dejar una ⭐ en el repositorio para apoyar su desarrollo.
