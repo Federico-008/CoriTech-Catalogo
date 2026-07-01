@@ -12,6 +12,7 @@ El proyecto fue diseñado priorizando velocidad, simplicidad, escalabilidad y un
 
 🌐 Demo
 > Próximamente disponible mediante GitHub Pages.
+
 Características
 📱 Catálogo organizado por marcas y modelos.
 💲 Visualización de precios Estándar y Premium.
