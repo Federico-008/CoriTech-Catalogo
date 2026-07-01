@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /data/
+Disallow: /js/
+Sitemap: https://coritechh.com/sitemap.xml
