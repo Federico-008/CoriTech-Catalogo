@@ -441,6 +441,8 @@ a, button, input, select, textarea, .resultado-item {
     font-size: 0.85rem;
     color: var(--color-texto-secundario);
     font-weight: 400;
+    display: block;
+    margin-top: 0.2rem;
 }
 
 /* Options Area (Inline) */
@@ -708,20 +710,233 @@ a, button, input, select, textarea, .resultado-item {
     }
 }
 
-@media (max-width: 480px) {
-    .inicio-hero h1 {
-        font-size: 2rem;
+/* MOBILE FIRST - Optimizaciones para pantallas pequeñas */
+@media (max-width: 768px) {
+    body {
+        font-size: 15px;
     }
 
-    .panel-busqueda,
-    .seccion-servicios,
-    .seccion-cont {
-        margin: 2rem 1rem;
-        padding: 2rem 1.5rem;
+    /* HEADER MÓVIL */
+    .encabezado {
+        padding: 0.8rem 1rem;
+    }
+
+    .encabezado.scrolled {
+        padding: 0.6rem 1rem;
+    }
+
+    .logo-img {
+        width: 8rem;
+        max-width: 30vw;
+    }
+
+    .encabezado.scrolled .logo-img {
+        transform: scale(0.75);
+    }
+
+    .subtitulo {
+        font-size: 0.8rem;
+    }
+
+    .lema {
+        font-size: 0.7rem;
     }
 
     .nav-principal ul {
-        gap: 1.5rem;
+        gap: 1rem;
+    }
+
+    .nav-principal a {
+        font-size: 0.8rem;
+    }
+
+    /* HERO MÓVIL */
+    .inicio-hero {
+        padding: 3rem 1rem 2rem;
+        min-height: 50vh;
+    }
+
+    .inicio-hero h1 {
+        font-size: clamp(1.8rem, 5vw, 2.5rem);
+        margin-bottom: 1rem;
+    }
+
+    .inicio-hero p {
+        font-size: clamp(0.9rem, 2vw, 1rem);
+        margin: 0 0 1.5rem;
+    }
+
+    /* PANEL DE BÚSQUEDA MÓVIL */
+    .panel-busqueda {
+        padding: 2rem 1rem;
+        margin: 2rem auto;
+    }
+
+    .panel-busqueda h2 {
+        font-size: clamp(1.2rem, 3vw, 1.5rem);
+    }
+
+    .panel-busqueda > p {
+        font-size: 0.95rem;
+    }
+
+    .form-busq input[type="search"] {
+        padding: 1rem 1rem 1rem 3rem;
+        font-size: 1rem;
+        border-radius: 12px;
+    }
+
+    .search-icon {
+        left: 0.8rem;
+        width: 20px;
+        height: 20px;
+    }
+
+    /* RESULTADOS MÓVIL */
+    .resultado-item {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.8rem;
+        padding: 1rem;
+        border-radius: 10px;
+    }
+
+    .resultado-info {
+        flex-direction: column;
+        gap: 0.3rem;
+        width: 100%;
+    }
+
+    .badge-marca {
+        font-size: 0.65rem;
+        padding: 0.15rem 0.4rem;
+        min-width: 60px;
+    }
+
+    .resultado-modelo {
+        font-size: 1rem;
+    }
+
+    .resultado-familia {
+        font-size: 0.75rem;
+    }
+
+    .resultado-opciones {
+        flex-wrap: wrap;
+        gap: 0.5rem;
+        width: 100%;
+        order: -1;
+    }
+
+    .opcion-repuesto {
+        flex: 1;
+        min-width: 120px;
+        font-size: 0.75rem;
+        padding: 0.25rem 0.6rem;
+    }
+
+    .opcion-badge {
+        font-size: 0.7rem;
+    }
+
+    .opcion-precio {
         font-size: 0.9rem;
+    }
+
+    .btn-whatsapp-cotizar {
+        width: 100%;
+        text-align: center;
+        font-size: 0.8rem;
+        padding: 0.5rem 0.8rem;
+    }
+
+    /* SECCIONES MÓVIL */
+    .seccion-servicios,
+    .seccion-cont {
+        margin: 1.5rem 1rem;
+        padding: 1.5rem 1rem;
+        border-radius: 12px;
+    }
+
+    .seccion-servicios h2,
+    .seccion-cont h2 {
+        font-size: clamp(1.2rem, 3vw, 1.5rem);
+        margin: 0 0 1rem;
+    }
+
+    .seccion-servicios li {
+        font-size: 0.95rem;
+        padding-left: 1.5rem;
+        margin-bottom: 0.8rem;
+    }
+
+    .seccion-cont p {
+        font-size: 0.95rem;
+        margin: 0 0 1rem;
+    }
+
+    .contacto-redes {
+        justify-content: center;
+        gap: 0.8rem;
+    }
+
+    .img-wpp, .img-ig {
+        width: 2.5rem;
+        height: 2.5rem;
+    }
+
+    /* ESTADO VACÍO MÓVIL */
+    .estado-vacio {
+        padding: 1.5rem;
+        border-radius: 12px;
+    }
+
+    .estado-vacio .btn-presupuesto {
+        padding: 0.6rem 1rem;
+        font-size: 0.9rem;
+    }
+
+    /* FOOTER MÓVIL */
+    .footer {
+        padding: 1.5rem 1rem;
+        margin-top: 2rem;
+    }
+
+    .footer p {
+        font-size: 0.85rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .inicio-hero h1 {
+        font-size: 1.5rem;
+    }
+
+    .encabezado-top {
+        gap: 0.5rem;
+    }
+
+    .panel-busqueda {
+        margin: 1rem auto;
+        padding: 1.5rem 0.8rem;
+    }
+
+    .resultado-item {
+        padding: 0.8rem;
+    }
+
+    .seccion-servicios,
+    .seccion-cont {
+        margin: 1rem 0.8rem;
+        padding: 1.2rem 0.8rem;
+    }
+
+    .seccion-servicios li {
+        font-size: 0.9rem;
+        padding-left: 1.2rem;
+    }
+
+    .nav-principal ul {
+        gap: 0.8rem;
     }
 }
