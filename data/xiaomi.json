@@ -1,0 +1,353 @@
+{
+  "marca": "Xiaomi",
+  "modelos": [
+    {
+      "id": 1,
+      "familia": "Redmi",
+      "modelo": "Redmi 7",
+      "pantallas": {
+        "estandar": {
+          "precio": 34000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": null
+      }
+    },
+    {
+      "id": 2,
+      "familia": "Redmi",
+      "modelo": "Redmi 9",
+      "pantallas": {
+        "estandar": {
+          "precio": 34000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": null
+      }
+    },
+    {
+      "id": 3,
+      "familia": "Redmi",
+      "modelo": "Redmi 9A / 9C",
+      "pantallas": {
+        "estandar": {
+          "precio": 36000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": null
+      }
+    },
+    {
+      "id": 4,
+      "familia": "Redmi",
+      "modelo": "Redmi 10",
+      "pantallas": {
+        "estandar": {
+          "precio": 44000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": null
+      }
+    },
+    {
+      "id": 5,
+      "familia": "Redmi",
+      "modelo": "Redmi 10C",
+      "pantallas": {
+        "estandar": {
+          "precio": 44000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": null
+      }
+    },
+    {
+      "id": 6,
+      "familia": "Redmi",
+      "modelo": "Redmi A1 / A2",
+      "pantallas": {
+        "estandar": {
+          "precio": 36000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": null
+      }
+    },
+    {
+      "id": 7,
+      "familia": "Redmi",
+      "modelo": "Redmi A3",
+      "pantallas": {
+        "estandar": {
+          "precio": 44000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": null
+      }
+    },
+    {
+      "id": 8,
+      "familia": "Redmi",
+      "modelo": "Redmi A5",
+      "pantallas": {
+        "estandar": {
+          "precio": 44000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": null
+      }
+    },
+    {
+      "id": 9,
+      "familia": "Redmi",
+      "modelo": "Redmi 13C",
+      "pantallas": {
+        "estandar": null,
+        "premium": {
+          "precio": 38000,
+          "garantia": "30 Días"
+        }
+      }
+    },
+    {
+      "id": 10,
+      "familia": "Redmi",
+      "modelo": "Redmi 14C",
+      "pantallas": {
+        "estandar": null,
+        "premium": {
+          "precio": 42000,
+          "garantia": "30 Días"
+        }
+      }
+    },
+    {
+      "id": 11,
+      "familia": "Redmi",
+      "modelo": "Redmi 15C",
+      "pantallas": {
+        "estandar": null,
+        "premium": {
+          "precio": 56000,
+          "garantia": "30 Días"
+        }
+      }
+    },
+    {
+      "id": 12,
+      "familia": "Redmi Note",
+      "modelo": "Redmi Note 7 / 7 Pro",
+      "pantallas": {
+        "estandar": {
+          "precio": 34000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": null
+      }
+    },
+    {
+      "id": 13,
+      "familia": "Redmi Note",
+      "modelo": "Redmi Note 8",
+      "pantallas": {
+        "estandar": {
+          "precio": 36000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": null
+      }
+    },
+    {
+      "id": 14,
+      "familia": "Redmi Note",
+      "modelo": "Redmi Note 8 Pro",
+      "pantallas": {
+        "estandar": {
+          "precio": 36000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": null
+      }
+    },
+    {
+      "id": 15,
+      "familia": "Redmi Note",
+      "modelo": "Redmi Note 9",
+      "pantallas": {
+        "estandar": {
+          "precio": 40000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": null
+      }
+    },
+    {
+      "id": 16,
+      "familia": "Redmi Note",
+      "modelo": "Redmi Note 10 / 10S",
+      "pantallas": {
+        "estandar": {
+          "precio": 40000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": null
+      }
+    },
+    {
+      "id": 17,
+      "familia": "Redmi Note",
+      "modelo": "Redmi Note 10 5G",
+      "pantallas": {
+        "estandar": {
+          "precio": 44000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": null
+      }
+    },
+    {
+      "id": 18,
+      "familia": "Redmi Note",
+      "modelo": "Redmi Note 11 / 11S / 12S",
+      "pantallas": {
+        "estandar": {
+          "precio": 44000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": null
+      }
+    },
+    {
+      "id": 19,
+      "familia": "Redmi Note",
+      "modelo": "Redmi Note 11 Pro 4G / 5G",
+      "pantallas": {
+        "estandar": null,
+        "premium": {
+          "precio": 110000,
+          "garantia": "30 Días"
+        }
+      }
+    },
+    {
+      "id": 20,
+      "familia": "Redmi Note",
+      "modelo": "Redmi Note 12",
+      "pantallas": {
+        "estandar": null,
+        "premium": {
+          "precio": 120000,
+          "garantia": "30 Días"
+        }
+      }
+    },
+    {
+      "id": 21,
+      "familia": "Redmi Note",
+      "modelo": "Redmi Note 13 Pro",
+      "pantallas": {
+        "estandar": null,
+        "premium": {
+          "precio": 120000,
+          "garantia": "30 Días"
+        }
+      }
+    },
+    {
+      "id": 22,
+      "familia": "Redmi Note",
+      "modelo": "Redmi Note 13 Pro 5G / 14 Pro / 14 Pro+ 5G",
+      "pantallas": {
+        "estandar": null,
+        "premium": {
+          "precio": 140000,
+          "garantia": "30 Días"
+        }
+      }
+    },
+    {
+      "id": 23,
+      "familia": "Poco",
+      "modelo": "Poco C71",
+      "pantallas": {
+        "estandar": {
+          "precio": 44000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": null
+      }
+    },
+    {
+      "id": 24,
+      "familia": "Poco",
+      "modelo": "Poco C65",
+      "pantallas": {
+        "estandar": null,
+        "premium": {
+          "precio": 38000,
+          "garantia": "30 Días"
+        }
+      }
+    },
+    {
+      "id": 25,
+      "familia": "Poco",
+      "modelo": "Poco C75",
+      "pantallas": {
+        "estandar": null,
+        "premium": {
+          "precio": 42000,
+          "garantia": "30 Días"
+        }
+      }
+    },
+    {
+      "id": 26,
+      "familia": "Poco",
+      "modelo": "Poco M3 Pro",
+      "pantallas": {
+        "estandar": {
+          "precio": 44000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": null
+      }
+    },
+    {
+      "id": 27,
+      "familia": "Poco",
+      "modelo": "Poco X4",
+      "pantallas": {
+        "estandar": {
+          "precio": 44000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": null
+      }
+    },
+    {
+      "id": 28,
+      "familia": "Poco",
+      "modelo": "Poco X5",
+      "pantallas": {
+        "estandar": null,
+        "premium": {
+          "precio": 120000,
+          "garantia": "30 Días"
+        }
+      }
+    },
+    {
+      "id": 29,
+      "familia": "Mi",
+      "modelo": "Mi 8 Lite",
+      "pantallas": {
+        "estandar": {
+          "precio": 34000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": null
+      }
+    }
+  ]
+}

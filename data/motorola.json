@@ -1,0 +1,571 @@
+{
+  "marca": "Motorola",
+  "modelos": [
+    {
+      "id": 1,
+      "familia": "Moto E",
+      "modelo": "Moto E13",
+      "pantallas": {
+        "estandar": {
+          "precio": 34000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": {
+          "precio": 40000,
+          "garantia": "30 Días"
+        }
+      }
+    },
+    {
+      "id": 2,
+      "familia": "Moto E",
+      "modelo": "Moto E20",
+      "pantallas": {
+        "estandar": {
+          "precio": 32000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": {
+          "precio": 45000,
+          "garantia": "30 Días"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "familia": "Moto E",
+      "modelo": "Moto E22",
+      "pantallas": {
+        "estandar": null,
+        "premium": {
+          "precio": 35000,
+          "garantia": "30 Días"
+        }
+      }
+    },
+    {
+      "id": 4,
+      "familia": "Moto E",
+      "modelo": "Moto E22i",
+      "pantallas": {
+        "estandar": null,
+        "premium": {
+          "precio": 35000,
+          "garantia": "30 Días"
+        }
+      }
+    },
+    {
+      "id": 5,
+      "familia": "Moto E",
+      "modelo": "Moto E30",
+      "pantallas": {
+        "estandar": {
+          "precio": 34000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": null
+      }
+    },
+    {
+      "id": 6,
+      "familia": "Moto E",
+      "modelo": "Moto E32",
+      "pantallas": {
+        "estandar": {
+          "precio": 34000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": {
+          "precio": 40000,
+          "garantia": "30 Días"
+        }
+      }
+    },
+    {
+      "id": 7,
+      "familia": "Moto E",
+      "modelo": "Moto E40",
+      "pantallas": {
+        "estandar": {
+          "precio": 34000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": {
+          "precio": 40000,
+          "garantia": "30 Días"
+        }
+      }
+    },
+    {
+      "id": 8,
+      "familia": "Moto E",
+      "modelo": "Moto E14",
+      "pantallas": {
+        "estandar": {
+          "precio": 34000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": {
+          "precio": 45000,
+          "garantia": "30 Días"
+        }
+      }
+    },
+    {
+      "id": 9,
+      "familia": "Moto E",
+      "modelo": "Moto E15",
+      "pantallas": {
+        "estandar": {
+          "precio": 40000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": null
+      }
+    },
+    {
+      "id": 10,
+      "familia": "Moto E",
+      "modelo": "Moto E5",
+      "pantallas": {
+        "estandar": {
+          "precio": 32000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": null
+      }
+    },
+    {
+      "id": 11,
+      "familia": "Moto E",
+      "modelo": "Moto E5 Play",
+      "pantallas": {
+        "estandar": {
+          "precio": 32000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": null
+      }
+    },
+    {
+      "id": 12,
+      "familia": "Moto E",
+      "modelo": "Moto E6i",
+      "pantallas": {
+        "estandar": {
+          "precio": 32000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": null
+      }
+    },
+    {
+      "id": 13,
+      "familia": "Moto E",
+      "modelo": "Moto E6s",
+      "pantallas": {
+        "estandar": {
+          "precio": 32000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": null
+      }
+    },
+    {
+      "id": 14,
+      "familia": "Moto E",
+      "modelo": "Moto E6 Plus",
+      "pantallas": {
+        "estandar": {
+          "precio": 32000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": {
+          "precio": 40000,
+          "garantia": "30 Días"
+        }
+      }
+    },
+    {
+      "id": 15,
+      "familia": "Moto E",
+      "modelo": "Moto E7",
+      "pantallas": {
+        "estandar": {
+          "precio": 32000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": {
+          "precio": 40000,
+          "garantia": "30 Días"
+        }
+      }
+    },
+    {
+      "id": 16,
+      "familia": "Moto E",
+      "modelo": "Moto E7i Power",
+      "pantallas": {
+        "estandar": {
+          "precio": 32000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": {
+          "precio": 40000,
+          "garantia": "30 Días"
+        }
+      }
+    },
+    {
+      "id": 17,
+      "familia": "Moto E",
+      "modelo": "Moto E7 Plus",
+      "pantallas": {
+        "estandar": {
+          "precio": 34000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": null
+      }
+},
+
+
+  { 
+    "id": 18,
+    "familia": "Moto G",
+    "modelo": "Moto G04",
+    "pantallas": {
+      "estandar": {
+        "precio": 34000,
+        "garantia": "Sin Garantía"
+      },
+      "premium": {
+        "precio": 45000,
+        "garantia": "30 Días"
+      }
+    }
+  },
+  {
+    "id": 19,
+    "familia": "Moto G",
+    "modelo": "Moto G04s",
+    "pantallas": {
+      "estandar": {
+        "precio": 34000,
+        "garantia": "Sin Garantía"
+      },
+      "premium": {
+        "precio": 45000,
+        "garantia": "30 Días"
+      }
+    }
+  },
+  {
+    "id": 20,
+    "familia": "Moto G",
+    "modelo": "Moto G05",
+    "pantallas": {
+      "estandar": {
+        "precio": 40000,
+        "garantia": "Sin Garantía"
+      },
+      "premium": null
+    }
+  },
+  {
+    "id": 21,
+    "familia": "Moto G",
+    "modelo": "Moto G6 Play",
+    "pantallas": {
+      "estandar": {
+        "precio": 32000,
+        "garantia": "Sin Garantía"
+      },
+      "premium": null
+    }
+  },
+  {
+    "id": 22,
+    "familia": "Moto G",
+    "modelo": "Moto G7",
+    "pantallas": {
+      "estandar": {
+        "precio": 38000,
+        "garantia": "Sin Garantía"
+      },
+      "premium": null
+    }
+  },
+  {
+    "id": 23,
+    "familia": "Moto G",
+    "modelo": "Moto G7 Plus",
+    "pantallas": {
+      "estandar": {
+        "precio": 38000,
+        "garantia": "Sin Garantía"
+      },
+      "premium": null
+    }
+  },
+  {
+    "id": 24,
+    "familia": "Moto G",
+    "modelo": "Moto G7 Play",
+    "pantallas": {
+      "estandar": {
+        "precio": 32000,
+        "garantia": "Sin Garantía"
+      },
+      "premium": null
+    }
+  },
+  {
+    "id": 25,
+    "familia": "Moto G",
+    "modelo": "Moto G8",
+    "pantallas": {
+      "estandar": {
+        "precio": 32000,
+        "garantia": "Sin Garantía"
+      },
+      "premium": null
+    }
+  },
+  {
+    "id": 26,
+    "familia": "Moto G",
+    "modelo": "Moto G8 Play",
+    "pantallas": {
+      "estandar": {
+        "precio": 32000,
+        "garantia": "Sin Garantía"
+      },
+      "premium": null
+    }
+  },
+  {
+    "id": 27,
+    "familia": "Moto G",
+    "modelo": "Moto G8 Power",
+    "pantallas": {
+      "estandar": {
+        "precio": 38000,
+        "garantia": "Sin Garantía"
+      },
+      "premium": null
+    }
+  },
+  {
+    "id": 28,
+    "familia": "Moto G",
+    "modelo": "Moto G9 Play",
+    "pantallas": {
+      "estandar": {
+        "precio": 34000,
+        "garantia": "Sin Garantía"
+      },
+      "premium": {
+        "precio": 40000,
+        "garantia": "30 Días"
+      }
+    }
+  },
+  {
+    "id": 29,
+    "familia": "Moto G",
+    "modelo": "Moto G9 Power",
+    "pantallas": {
+      "estandar": {
+        "precio": 32000,
+        "garantia": "Sin Garantía"
+      },
+      "premium": null
+    }
+  },
+  {
+    "id": 30,
+    "familia": "Moto G",
+    "modelo": "Moto G9 Plus",
+    "pantallas": {
+      "estandar": {
+        "precio": 38000,
+        "garantia": "Sin Garantía"
+      },
+      "premium": {
+        "precio": 50000,
+        "garantia": "30 Días"
+      }
+    }
+  },
+  {
+    "id": 31,
+    "familia": "Moto G",
+    "modelo": "Moto G10",
+    "pantallas": {
+      "estandar": {
+        "precio": 32000,
+        "garantia": "Sin Garantía"
+      },
+      "premium": null
+    }
+  },
+  {
+    "id": 32,
+    "familia": "Moto G",
+    "modelo": "Moto G13",
+    "pantallas": {
+      "estandar": {
+        "precio": 34000,
+        "garantia": "Sin Garantía"
+      },
+      "premium": {
+        "precio": 40000,
+        "garantia": "30 Días"
+      }
+    }
+  },
+  {
+    "id": 33,
+    "familia": "Moto G",
+    "modelo": "Moto G14",
+    "pantallas": {
+      "estandar": {
+        "precio": 38000,
+        "garantia": "Sin Garantía"
+      },
+      "premium": null
+    }
+  },
+  {
+    "id": 34,
+    "familia": "Moto G",
+    "modelo": "Moto G20",
+    "pantallas": {
+      "estandar": {
+        "precio": 32000,
+        "garantia": "Sin Garantía"
+      },
+      "premium": {
+        "precio": 45000,
+        "garantia": "30 Días"
+      }
+    }
+  },
+  {
+    "id": 35,
+    "familia": "Moto G",
+    "modelo": "Moto G22",
+    "pantallas": {
+      "estandar": {
+        "precio": 34000,
+        "garantia": "Sin Garantía"
+      },
+      "premium": {
+        "precio": 40000,
+        "garantia": "30 Días"
+      }
+    }
+  },
+  {
+    "id": 36,
+    "familia": "Moto G",
+    "modelo": "Moto G23",
+    "pantallas": {
+      "estandar": {
+        "precio": 34000,
+        "garantia": "Sin Garantía"
+      },
+      "premium": {
+        "precio": 40000,
+        "garantia": "30 Días"
+      }
+    }
+  },
+  {
+    "id": 37,
+    "familia": "Moto G",
+    "modelo": "Moto G24",
+    "pantallas": {
+      "estandar": {
+        "precio": 34000,
+        "garantia": "Sin Garantía"
+      },
+      "premium": null
+    }
+  },
+  {
+    "id": 38,
+    "familia": "Moto G",
+    "modelo": "Moto G24 Power",
+    "pantallas": {
+      "estandar": {
+        "precio": 34000,
+        "garantia": "Sin Garantía"
+      },
+      "premium": null
+    }
+  },
+  {
+    "id": 39,
+    "familia": "Moto G",
+    "modelo": "Moto G30",
+    "pantallas": {
+      "estandar": {
+        "precio": 32000,
+        "garantia": "Sin Garantía"
+      },
+      "premium": null
+    }
+  },
+  {
+    "id": 40,
+    "familia": "Moto G",
+    "modelo": "Moto G31",
+    "pantallas": {
+      "estandar": {
+        "precio": 40000,
+        "garantia": "Sin Garantía"
+      },
+      "premium": null
+    }
+  },
+  {
+    "id": 41,
+    "familia": "Moto G",
+    "modelo": "Moto G32",
+    "pantallas": {
+      "estandar": {
+        "precio": 44000,
+        "garantia": "Sin Garantía"
+      },
+      "premium": null
+    }
+  },
+  {
+    "id": 42,
+    "familia": "Moto G",
+    "modelo": "Moto G34",
+    "pantallas": {
+      "estandar": {
+        "precio": 34000,
+        "garantia": "Sin Garantía"
+      },
+      "premium": null
+    }
+  },
+  {
+    "id": 43,
+    "familia": "Moto G",
+    "modelo": "Moto G35",
+    "pantallas": {
+      "estandar": {
+        "precio": 44000,
+        "garantia": "Sin Garantía"
+      },
+      "premium": null
+    }
+  }
+]
+}

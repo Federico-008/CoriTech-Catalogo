@@ -1,0 +1,457 @@
+{
+  "repuestos": [
+    {
+      "id": 1,
+      "marca": "Samsung",
+      "modelo": "A02",
+      "pantallas": {
+        "estandar": null,
+        "premium": null
+      }
+    },
+    {
+      "id": 2,
+      "marca": "Samsung",
+      "modelo": "A02S",
+      "pantallas": {
+        "estandar": {
+          "precio": 35000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": {
+          "precio": 45000,
+          "garantia": "30 Días"
+        }
+      }
+    },
+    {
+      "id": 3,
+      "marca": "Samsung",
+      "modelo": "A03 Core",
+      "pantallas": {
+        "estandar": {
+          "precio": 35000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": null
+      }
+    },
+    {
+      "id": 4,
+      "marca": "Samsung",
+      "modelo": "A03",
+      "pantallas": {
+        "estandar": {
+          "precio": 40000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": null
+      }
+    },
+    {
+      "id": 5,
+      "marca": "Samsung",
+      "modelo": "A03S",
+      "pantallas": {
+        "estandar": {
+          "precio": 40000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": {
+          "precio": 50000,
+          "garantia": "30 Días"
+        }
+      }
+    },
+    {
+      "id": 6,
+      "marca": "Samsung",
+      "modelo": "A04",
+      "pantallas": {
+        "estandar": {
+          "precio": 40000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": null
+      }
+    },
+    {
+      "id": 7,
+      "marca": "Samsung",
+      "modelo": "A04E",
+      "pantallas": {
+        "estandar": {
+          "precio": 40000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": null
+      }
+    },
+    {
+      "id": 8,
+      "marca": "Samsung",
+      "modelo": "A04S",
+      "pantallas": {
+        "estandar": {
+          "precio": 42000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": null
+      }
+    },
+    {
+      "id": 9,
+      "marca": "Samsung",
+      "modelo": "A05",
+      "pantallas": {
+        "estandar": {
+          "precio": 40000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": null
+      }
+    },
+    {
+      "id": 10,
+      "marca": "Samsung",
+      "modelo": "A05S",
+      "pantallas": {
+        "estandar": null,
+        "premium": {
+          "precio": 50000,
+          "garantia": "30 Días"
+        }
+      }
+    },
+    {
+      "id": 11,
+      "marca": "Samsung",
+      "modelo": "A06",
+      "pantallas": {
+        "estandar": {
+          "precio": 40000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": {
+          "precio": 50000,
+          "garantia": "30 Días"
+        }
+      }
+    },
+    {
+      "id": 12,
+      "marca": "Samsung",
+      "modelo": "A10",
+      "pantallas": {
+        "estandar": {
+          "precio": 35000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": null
+      }
+    },
+    {
+      "id": 13,
+      "marca": "Samsung",
+      "modelo": "A10S",
+      "pantallas": {
+        "estandar": {
+          "precio": 40000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": null
+      }
+    },
+    {
+      "id": 14,
+      "marca": "Samsung",
+      "modelo": "A11",
+      "pantallas": {
+        "estandar": {
+          "precio": 40000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": {
+          "precio": 50000,
+          "garantia": "30 Días"
+        }
+      }
+    },
+    {
+      "id": 15,
+      "marca": "Samsung",
+      "modelo": "A12",
+      "pantallas": {
+        "estandar": {
+          "precio": 45000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": null
+      }
+    },
+    {
+      "id": 16,
+      "marca": "Samsung",
+      "modelo": "A13",
+      "pantallas": {
+        "estandar": {
+          "precio": 45000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": null
+      }
+    },
+    {
+      "id": 17,
+      "marca": "Samsung",
+      "modelo": "A14",
+      "pantallas": {
+        "estandar": {
+          "precio": 40000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": null
+      }
+    },
+    {
+      "id": 18,
+      "marca": "Samsung",
+      "modelo": "A15",
+      "pantallas": {
+        "estandar": {
+          "precio": 45000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": {
+          "precio": 100000,
+          "garantia": "30 Días"
+        }
+      }
+    },
+    {
+      "id": 19,
+      "marca": "Samsung",
+      "modelo": "A20",
+      "pantallas": {
+        "estandar": {
+          "precio": 45000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": null
+      }
+    },
+    {
+      "id": 20,
+      "marca": "Samsung",
+      "modelo": "A20S",
+      "pantallas": {
+        "estandar": {
+          "precio": 45000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": {
+          "precio": 50000,
+          "garantia": "30 Días"
+        }
+      }
+    },
+    {
+      "id": 21,
+      "marca": "Samsung",
+      "modelo": "A21S",
+      "pantallas": {
+        "estandar": {
+          "precio": 45000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": null
+      }
+    },
+    {
+      "id": 22,
+      "marca": "Samsung",
+      "modelo": "A22 4G",
+      "pantallas": {
+        "estandar": {
+          "precio": 45000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": null
+      }
+    },
+    {
+      "id": 23,
+      "marca": "Samsung",
+      "modelo": "A22 5G",
+      "pantallas": {
+        "estandar": {
+          "precio": 45000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": {
+          "precio": 50000,
+          "garantia": "30 Días"
+        }
+      }
+    },
+    {
+      "id": 24,
+      "marca": "Samsung",
+      "modelo": "A23",
+      "pantallas": {
+        "estandar": {
+          "precio": 50000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": null
+      }
+    },
+    {
+      "id": 25,
+      "marca": "Samsung",
+      "modelo": "A24",
+      "pantallas": {
+        "estandar": null,
+        "premium": {
+          "precio": 90000,
+          "garantia": "30 Días"
+        }
+      }
+    },
+    {
+      "id": 26,
+      "marca": "Samsung",
+      "modelo": "A30 / A50",
+      "pantallas": {
+        "estandar": {
+          "precio": 50000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": null
+      }
+    },
+    {
+      "id": 27,
+      "marca": "Samsung",
+      "modelo": "A30S",
+      "pantallas": {
+        "estandar": {
+          "precio": 45000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": {
+          "precio": 85000,
+          "garantia": "30 Días"
+        }
+      }
+    },
+    {
+      "id": 28,
+      "marca": "Samsung",
+      "modelo": "A31",
+      "pantallas": {
+        "estandar": {
+          "precio": 45000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": {
+          "precio": 100000,
+          "garantia": "30 Días"
+        }
+      }
+    },
+    {
+      "id": 29,
+      "marca": "Samsung",
+      "modelo": "A32",
+      "pantallas": {
+        "estandar": {
+          "precio": 55000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": {
+          "precio": 110000,
+          "garantia": "30 Días"
+        }
+      }
+    },
+    {
+      "id": 30,
+      "marca": "Samsung",
+      "modelo": "A34",
+      "pantallas": {
+        "estandar": {
+          "precio": 60000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": null
+      }
+    },
+    {
+      "id": 31,
+      "marca": "Samsung",
+      "modelo": "A35",
+      "pantallas": {
+        "estandar": null,
+        "premium": {
+          "precio": 130000,
+          "garantia": "30 Días"
+        }
+      }
+    },
+    {
+      "id": 32,
+      "marca": "Samsung",
+      "modelo": "A51",
+      "pantallas": {
+        "estandar": {
+          "precio": 50000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": {
+          "precio": 110000,
+          "garantia": "30 Días"
+        }
+      }
+    },
+    {
+      "id": 33,
+      "marca": "Samsung",
+      "modelo": "A52",
+      "pantallas": {
+        "estandar": {
+          "precio": 60000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": {
+          "precio": 115000,
+          "garantia": "30 Días"
+        }
+      }
+    },
+    {
+      "id": 34,
+      "marca": "Samsung",
+      "modelo": "A70",
+      "pantallas": {
+        "estandar": {
+          "precio": 60000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": null
+      }
+    },
+    {
+      "id": 35,
+      "marca": "Samsung",
+      "modelo": "A72",
+      "pantallas": {
+        "estandar": {
+          "precio": 60000,
+          "garantia": "Sin Garantía"
+        },
+        "premium": null
+      }
+    }
+  ]
+}

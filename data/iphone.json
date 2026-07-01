@@ -1,0 +1,289 @@
+{
+  "marca": "Apple",
+  "modelos": [
+    {
+      "id": 1,
+      "familia": "iPhone 6 Series",
+      "modelo": "iPhone 6",
+      "tiposPantalla": [
+        {
+          "tipo": "Estándar",
+          "precio": 30000,
+          "garantia": "Sin Garantía"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "familia": "iPhone 6 Series",
+      "modelo": "iPhone 6 Plus",
+      "tiposPantalla": [
+        {
+          "tipo": "Estándar",
+          "precio": 32000,
+          "garantia": "Sin Garantía"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "familia": "iPhone 6 Series",
+      "modelo": "iPhone 6s",
+      "tiposPantalla": [
+        {
+          "tipo": "Estándar",
+          "precio": 32000,
+          "garantia": "Sin Garantía"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "familia": "iPhone 6 Series",
+      "modelo": "iPhone 6s Plus",
+      "tiposPantalla": [
+        {
+          "tipo": "Estándar",
+          "precio": 32000,
+          "garantia": "Sin Garantía"
+        }
+      ]
+    },
+
+    {
+      "id": 5,
+      "familia": "iPhone 7 Series",
+      "modelo": "iPhone 7",
+      "tiposPantalla": [
+        {
+          "tipo": "Estándar",
+          "precio": 32000,
+          "garantia": "Sin Garantía"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "familia": "iPhone 7 Series",
+      "modelo": "iPhone 7 Plus",
+      "tiposPantalla": [
+        {
+          "tipo": "Estándar",
+          "precio": 32000,
+          "garantia": "Sin Garantía"
+        }
+      ]
+    },
+
+    {
+      "id": 7,
+      "familia": "iPhone 8 Series",
+      "modelo": "iPhone 8",
+      "tiposPantalla": [
+        {
+          "tipo": "Estándar",
+          "precio": 32000,
+          "garantia": "Sin Garantía"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "familia": "iPhone 8 Series",
+      "modelo": "iPhone 8 Plus",
+      "tiposPantalla": [
+        {
+          "tipo": "Estándar",
+          "precio": 32000,
+          "garantia": "Sin Garantía"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "familia": "iPhone 8 Series",
+      "modelo": "iPhone SE 2020",
+      "tiposPantalla": [
+        {
+          "tipo": "Estándar",
+          "precio": 32000,
+          "garantia": "Sin Garantía"
+        }
+      ]
+    },
+
+    {
+      "id": 10,
+      "familia": "iPhone X Series",
+      "modelo": "iPhone XR",
+      "tiposPantalla": [
+        {
+          "tipo": "Incell JK",
+          "precio": 56000,
+          "garantia": "Sin Garantía"
+        },
+        {
+          "tipo": "OLED Gold Edition",
+          "precio": 70000,
+          "garantia": "30 Días"
+        }
+      ]
+    },
+
+    {
+      "id": 11,
+      "familia": "iPhone X Series",
+      "modelo": "iPhone XS",
+      "tiposPantalla": [
+        {
+          "tipo": "OLED VEZR",
+          "precio": 90000,
+          "garantia": "30 Días"
+        }
+      ]
+    },
+
+    {
+      "id": 12,
+      "familia": "iPhone X Series",
+      "modelo": "iPhone XS Max",
+      "tiposPantalla": [
+        {
+          "tipo": "OLED Gold Edition",
+          "precio": 130000,
+          "garantia": "30 Días"
+        }
+      ]
+    },
+
+    {
+      "id": 13,
+      "familia": "iPhone 11 Series",
+      "modelo": "iPhone 11",
+      "tiposPantalla": [
+        {
+          "tipo": "OLED VEZR",
+          "precio": 80000,
+          "garantia": "30 Días"
+        }
+      ]
+    },
+
+    {
+      "id": 14,
+      "familia": "iPhone 11 Series",
+      "modelo": "iPhone 11 Pro",
+      "tiposPantalla": [
+        {
+          "tipo": "OLED VEZR",
+          "precio": 120000,
+          "garantia": "30 Días"
+        }
+      ]
+    },
+
+    {
+      "id": 15,
+      "familia": "iPhone 11 Series",
+      "modelo": "iPhone 11 Pro Max",
+      "tiposPantalla": [
+        {
+          "tipo": "OLED Gold Edition",
+          "precio": 120000,
+          "garantia": "30 Días"
+        }
+      ]
+    },
+
+    {
+      "id": 16,
+      "familia": "iPhone 12 Series",
+      "modelo": "iPhone 12",
+      "tiposPantalla": [
+        {
+          "tipo": "OLED Gold Edition",
+          "precio": 130000,
+          "garantia": "30 Días"
+        }
+      ]
+    },
+
+    {
+      "id": 17,
+      "familia": "iPhone 12 Series",
+      "modelo": "iPhone 12 Pro",
+      "tiposPantalla": [
+        {
+          "tipo": "OLED Gold Edition",
+          "precio": 130000,
+          "garantia": "30 Días"
+        }
+      ]
+    },
+
+    {
+      "id": 18,
+      "familia": "iPhone 12 Series",
+      "modelo": "iPhone 12 Pro Max",
+      "tiposPantalla": [
+        {
+          "tipo": "Incell",
+          "precio": 70000,
+          "garantia": "Sin Garantía"
+        }
+      ]
+    },
+
+    {
+      "id": 19,
+      "familia": "iPhone 13 Series",
+      "modelo": "iPhone 13",
+      "tiposPantalla": [
+        {
+          "tipo": "OLED Gold Edition",
+          "precio": 160000,
+          "garantia": "30 Días"
+        }
+      ]
+    },
+
+    {
+      "id": 20,
+      "familia": "iPhone 13 Series",
+      "modelo": "iPhone 13 Pro",
+      "tiposPantalla": [
+        {
+          "tipo": "OLED VEZR",
+          "precio": 220000,
+          "garantia": "30 Días"
+        }
+      ]
+    },
+
+    {
+      "id": 21,
+      "familia": "iPhone 13 Series",
+      "modelo": "iPhone 13 Pro Max",
+      "tiposPantalla": [
+        {
+          "tipo": "OLED Gold Edition",
+          "precio": 230000,
+          "garantia": "30 Días"
+        }
+      ]
+    },
+
+    {
+      "id": 22,
+      "familia": "iPhone 14 Series",
+      "modelo": "iPhone 14 Pro",
+      "tiposPantalla": [
+        {
+          "tipo": "JCID",
+          "precio": 640000,
+          "garantia": "30 Días"
+        }
+      ]
+    }
+  ]
+}
