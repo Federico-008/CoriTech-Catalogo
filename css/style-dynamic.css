@@ -897,8 +897,14 @@ a, button, input, select, textarea, .resultado-item {
 
     .seccion-servicios li {
         font-size: 0.95rem;
-        padding-left: 1.5rem;
+        padding-left: 2.2rem;
         margin-bottom: 0.8rem;
+    }
+
+    .seccion-servicios li::before {
+        width: 18px;
+        height: 18px;
+        font-size: 0.8rem;
     }
 
     .seccion-cont p {
