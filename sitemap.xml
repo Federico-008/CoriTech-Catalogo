@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://coritechh.com</loc>
+        <loc>https://coritech-catalogo.netlify.app/</loc>
         <lastmod>2026-07-01</lastmod>
         <changefreq>weekly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://coritechh.com#inicio</loc>
+        <loc>https://coritech-catalogo.netlify.app/#inicio</loc>
         <lastmod>2026-07-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://coritechh.com#servicios</loc>
+        <loc>https://coritech-catalogo.netlify.app/#servicios</loc>
         <lastmod>2026-07-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>https://coritechh.com#contacto</loc>
+        <loc>https://coritech-catalogo.netlify.app/#contacto</loc>
         <lastmod>2026-07-01</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
