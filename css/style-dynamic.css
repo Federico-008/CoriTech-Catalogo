@@ -767,7 +767,7 @@ a, button, input, select, textarea, .resultado-item {
     .nav-principal ul {
         gap: 1rem;
         width: 100%;
-        justify-content: flex-start;
+        justify-content: center;
     }
 
     .nav-principal a {
@@ -980,5 +980,6 @@ a, button, input, select, textarea, .resultado-item {
 
     .nav-principal ul {
         gap: 0.8rem;
+        text-align: center;
     }
 }
