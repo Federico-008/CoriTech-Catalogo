@@ -897,14 +897,19 @@ a, button, input, select, textarea, .resultado-item {
 
     .seccion-servicios li {
         font-size: 0.95rem;
-        padding-left: 2.2rem;
+        padding-left: 3.2rem;
         margin-bottom: 0.8rem;
+        display: flex;
+        align-items: center;
     }
 
     .seccion-servicios li::before {
         width: 18px;
         height: 18px;
-        font-size: 0.8rem;
+        font-size: .8rem;
+        margin-right: 0.5rem;
+        position: static;
+        flex-shrink: 0;
     }
 
     .seccion-cont p {
